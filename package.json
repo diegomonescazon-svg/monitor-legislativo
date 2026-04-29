@@ -5,7 +5,7 @@
   "main": "scheduler.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node scheduler.js",
+    "start": "node src/api/server.js & node scheduler.js",
     "dev": "node --watch scheduler.js",
     "run-now": "node scheduler.js --run-now",
     "api": "node src/api/server.js"
