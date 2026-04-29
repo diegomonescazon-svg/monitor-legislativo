@@ -21,6 +21,6 @@
     "express": "^5.2.1",
     "node-cron": "^4.2.1",
     "nodemailer": "^8.0.7"
-    "@anthropic-ai/sdk": "^0.39.0",
+    "@anthropic-ai/sdk": "^0.39.0"
   }
 }
